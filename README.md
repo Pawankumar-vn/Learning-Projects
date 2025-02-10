@@ -9,6 +9,6 @@ This repository contains my learning projects, where I apply new concepts and im
 
 🔗 **Live Demo:** [https://pawankumar-vn.github.io/Learning-Projects/StudySync/ ]
 
-📂 **Source Code:** [ https://github.com/Pawankumar-vn/Learning-Projects/ ]
+📂 **Source Code:** [ https://github.com/Pawankumar-vn/Learning-Projects/tree/main/StudySync ]
 ---  
 More projects will be added as I continue learning! 🚀  
